@@ -80,7 +80,7 @@ polynomial_graph(3)
 <h2>Example Output</h2>
 <p>Here’s a sample output of the polynomial graph plotter for a cubic polynomial:</p>
 <p align="center">
-    <img src="![image](https://github.com/user-attachments/assets/d795b496-0c17-4bd9-ae1c-ad12dfd0990f)" alt="Polynomial Graph Example" width="500">
+    <img src="https://github.com/rahmankhan2241/Polynomial-Graph-Creation/blob/main/exampleGraph.png" alt="Polynomial Graph Example" width="500">
 </p>
 
 <h2>Contributing</h2>
