@@ -86,8 +86,7 @@ polynomial_graph(3)
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you have ideas for improvement, please fork the repository and submit a pull request.</p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+
 
 </body>
 </html>
